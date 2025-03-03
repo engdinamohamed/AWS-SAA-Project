@@ -3,6 +3,9 @@
 ## 📌 Overview
 This **eLearning platform** is designed with a **highly available and scalable** architecture, ensuring **fault tolerance and reliability**. The infrastructure is deployed across **two Availability Zones (AZs)**, following a **three-tier architecture** (Web, App, and Data).
 
+## 📌 Architecture Diagram
+**[View Architecture Diagram](https://drive.google.com/file/d/1Kg_gJFq6rGdecAXF68luczNsNwC_vFKz/view)**  
+
 ---
 
 ## 🏗 Infrastructure Design
